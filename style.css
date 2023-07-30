@@ -104,3 +104,29 @@ body {
  border-radius: 8px;
  margin: auto;
 }
+
+.quote-continer {
+    height: 60vh;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1f2037;
+    max-width: 39ch;
+}
+
+.quote-author {
+    display: block;
+    margin-top: 10px;
+    text-align: right;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+}
