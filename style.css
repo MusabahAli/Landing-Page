@@ -1,3 +1,8 @@
+* {
+    scroll-behavior: smooth;
+}
+
+
 body {
     margin: 0;
     padding: 0; 
@@ -33,6 +38,7 @@ body {
 
 .menu a {
     text-decoration: none;
+    color: #F9FAF8;
 }
 
 .hero-section {
